@@ -1,0 +1,1 @@
+This is an application for Face Detection that I'm doing to practice JavaScript.
